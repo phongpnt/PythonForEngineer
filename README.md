@@ -7,10 +7,10 @@ For learning Python in FPT University of Phùng Nguyễn Thanh Phong
 #### Học viên : Phùng Nguyễn Thanh Phong
 #### Mã số : 22MSE23051
 
-|STT|Bài Tập|Tên file|Link Colab|
+| STT | Bài Tập | Tên file | Link Colab |
 |:---:|:---:|:---:||:---:|
-|1||||
-|2||||
-|3||||
-|4||||
-|5||||
+| 1 ||||
+| 2 ||||
+| 3 ||||
+| 4 ||||
+| 5 ||||
